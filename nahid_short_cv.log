@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2019.1.22)  22 JAN 2019 04:20
+This is XeTeX, Version 3.14159265-2.6-0.99998 (MiKTeX 2.9.6300 64-bit) (preloaded format=xelatex 2019.1.22)  22 JAN 2019 10:35
 entering extended mode
 **./nahid_short_cv.tex
 (nahid_short_cv.tex
@@ -991,23 +991,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--188
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
 |[]\TU/Lato-Bol(0)/bx/n/12 AMERICAN INTERNATIONAL UNIVERSITY OF BANGLADESH
  []
 
-
-Overfull \hbox (26.49036pt too wide) in paragraph at lines 347--362
-[][] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 397.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 397.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
  (nahid_short_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 397.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 397.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 421.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1016,15 +1011,15 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 397.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
  ) 
 Here is how much of TeX's memory you used:
- 22010 strings out of 427832
- 394270 string characters out of 3152415
- 475279 words of memory out of 3000000
+ 22012 strings out of 427832
+ 394297 string characters out of 3152415
+ 476237 words of memory out of 3000000
  25824 multiletter control sequences out of 15000+200000
- 6092 words of font info for 54 fonts, out of 3000000 for 9000
+ 6108 words of font info for 56 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 52i,8n,119p,10357b,526s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,8n,119p,10357b,540s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on nahid_short_cv.pdf (1 page).
